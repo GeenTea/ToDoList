@@ -1,12 +1,40 @@
-# React + Vite
+## To-Do List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple **To-Do List** application built using the following technologies:
 
-Currently, two official plugins are available:
+## Libraries and Frameworks Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A fast build tool and development server for modern web projects.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **React Hooks**: Used for state management (`useState`).
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add and delete tasks dynamically.
+- Styled with Tailwind CSS for a modern and responsive design.
+- Built with React and Vite for fast development and performance.
+
+## How to Download and Run the Program
+
+Follow these steps to download and run the application locally:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd <project-directory>
+   ```
+3. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+4. **Start the Development Server**:
+   ```bash
+    npm run dev
+    ```
+## Screenshots
+
+![img.png](screenshots/img.png)
+![img_1.png](screenshots/img_1.png)
